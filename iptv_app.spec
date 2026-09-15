@@ -4,7 +4,8 @@ import os, sys, glob
 block_cipher = None
 
 vlc_src = 'C:/Program Files/VideoLAN/VLC'
-sob_src = os.path.join(os.path.dirname(os.path.abspath('.')), 'filtered', 'IPTV-Brasil-2026.sob')
+base_dir = os.path.dirname(os.path.abspath('iptv_app.py'))
+sob_src = os.path.join(base_dir, 'filtered', 'IPTV-Brasil-2026.sob')
 
 a = Analysis(
     ['iptv_app.py'],
@@ -12,14 +13,12 @@ a = Analysis(
     binaries=[
         (os.path.join(vlc_src, '*.dll'), 'vlc'),
         (os.path.join(vlc_src, '*.exe'), 'vlc'),
-        (os.path.join(vlc_src, '*.dat'), 'vlc'),
-        (os.path.join(vlc_src, '*.lua'), 'vlc'),
     ],
     datas=[
         (os.path.join(vlc_src, 'plugins/*'), 'vlc/plugins'),
         (os.path.join(vlc_src, 'libvlc.dll'), 'vlc'),
         (os.path.join(vlc_src, 'libvlccore.dll'), 'vlc'),
-        (os.path.join(os.path.dirname(os.path.abspath('.')), 'filtered', 'IPTV-Brasil-2026.sob'), '.'),
+        (os.path.join(base_dir, 'filtered', 'IPTV-Brasil-2026.sob'), '.'),
     ],
     hiddenimports=[
         'customtkinter', 'ctk', 'vlc', 'xml.etree.ElementTree',

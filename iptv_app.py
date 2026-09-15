@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """IPTV Brasil 2026 - Desktop App"""
 import os, sys, io, urllib.parse, subprocess, re, platform
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+if sys.stdout.buffer:
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 import tkinter as tk
 from tkinter import ttk, messagebox
