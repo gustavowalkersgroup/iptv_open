@@ -1,0 +1,40 @@
+# Large M3U playlist files (keep source scripts)
+Canais*.m3u8
+Filmes-Series.m3u8
+colados.txt
+
+# Large data files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+temp/
+tmp/
+*.tmp
+*.log
+
+# Build artifacts (keep source)
+build/
+*.egg
+
+# VLC bundled in dist
+dist/vlc/

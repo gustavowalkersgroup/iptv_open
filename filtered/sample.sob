@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<onlineRepositoriesBackup>
+  <items>
+    <backupItem enabled="true" order="1">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.16.50%2FAeE%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fdf%2FA%2526E_Network_logo.svg%2F960px-A%2526E_Network_logo.svg.png&amp;name=A%26E+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="2">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-9715%2FLVW9715_12B26T62tm%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FKgetM8j.png&amp;name=Adesso+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="3">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-61b790b985706b00072cb797.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FPvid2iH.png&amp;name=Adrenalina+Pura+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="4">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FADULT_SWIM%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe4%2FAdult_Swim_2003_logo.svg%2F960px-Adult_Swim_2003_logo.svg.png&amp;name=Adult+Swim+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="5">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FAGRO_CANAL%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F5XyopHf.png&amp;name=AgroCanal+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="6">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FAGROMAIS%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FsFcOZeo.png&amp;name=AgroMais+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="7">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Famazonsat.brasilstream.com.br%2Fhls%2Famazonsat%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F7rjCS5i.png&amp;name=Amazon+Sat+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="8">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.49.66%3A8083%2FAMCHD%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F34%2FAMC_logo_2019.svg%2F960px-AMC_logo_2019.svg.png&amp;name=AMC+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="9">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjanya-digimix.akamaized.net%2Fvglive-sk-382409%2Fportuese%2Fngrp%3Aangelportuguese_all%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FqKLEGU7.png&amp;name=Angel+TV+Portuguese+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="10">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo05.logicahost.com.br%2Fararunatv%2Fararunatv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fjl39ula.png&amp;name=Araruna+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="11">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fw%2FLVW-9359%2FLVW9359_XSyReL0QVf%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FHt4jCab.png&amp;name=Aratu+On</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="12">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FARTE1%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIvnk7A6.png&amp;name=Arte+1+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="13">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6759eeb1bd523200083b4f29.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6759eeb1bd523200083b4f29%2FcolorLogoPNG.png&amp;name=Avatar%3A+A+lenda+de+Aang</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="14">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fawtv.nuvemplay.live%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F2tdMyef.png&amp;name=AWTV+%281080p%29+%5BGeo-blocked%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="15">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.16.50%2FAXN%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F52%2FAXN_logo_%25282015%2529.svg%2F960px-AXN_logo_%25282015%2529.svg.png&amp;name=AXN+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="16">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f4fb4cf605ddf000748e16f.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FWxLHBwu.png&amp;name=Babyfirst</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="17">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ff768b6a4c8b80008498610.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5ff768b6a4c8b80008498610%2FcolorLogoPNG_1756804608228.png&amp;name=BET+Pluto+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="18">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.transmissaodigital.com%2Fblitstv%2Fblitstv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FFO4QTRf.jpeg&amp;name=Blitstv</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="19">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-666c9c60a7efd40008f552f0.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FpOUY2Uz.png&amp;name=BM%26C+News+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="20">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-62545c0b002f4b0007688b61.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F62545c0b002f4b0007688b61%2FcolorLogoPNG.png&amp;name=Bob+Esponja+Cal%C3%A7a+Quadrada+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="21">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.49.66%3A8083%2FBOXKIDSHD%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F1%2F18%2FBoxkidstv.png&amp;name=Box+Kids+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="22">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fw%2FLVW-11668%2Fngrp%3ALVW11668_wiJpjbMrks_all%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.ibb.co%2F1QZv2q1%2FBr8-fb-graph.png&amp;name=BR8+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="23">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FCANAL_DO_BOI%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FpVM5MhS.png&amp;name=Canal+do+Boi+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="24">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FCANAL_EDUCACAO%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FOOB7nrS.png&amp;name=Canal+Educacao+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="25">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fv-us-01.wisestream.io%2Fmemfs%2Fe4ade538-7924-4359-81ef-b9d4dd229e91.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F7SE4CkE.png&amp;name=Canal+FDR</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="26">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FFUTURA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FLgynEBC.png&amp;name=Canal+Futura+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="27">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.177.114.115%2FTV_BRASIL_2%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FrHPY0Yv.png&amp;name=Canal+Gov+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="28">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv5.samcast.com.br%2Fclaudio8701%2Fclaudio8701%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FG0x4xqa.png&amp;name=Canal+Metropolitano+de+Noticias</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="29">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo24.mais.uol.com.br%2Flive%2F6146.m3u8&amp;thUrl=https%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fplay%2Flogo_canaluol_2024.svg&amp;name=Canal+UOL+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="30">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2Fcatve2%2Fcatve2%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FqiVfsfB.png&amp;name=Catve2+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="31">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2Fradiocamera%2Flivestream%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fw89yw36.png&amp;name=Catve+FM+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="32">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5b33b873179a2.streamlock.net%3A1443%2Fmastertv%2Flivestream%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F4m7Iazm.png&amp;name=Catve+Master+TV+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="33">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FCHEF_TV%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FUYksTee.png&amp;name=Chef+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="34">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5c483b9d1019c.streamlock.net%2F8054%2F8054%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FSnaIMgj.png&amp;name=Chroma+TV+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="35">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fplay.redecinturaoverde.com.br%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Feswqkrogupaisirwcsys.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmbc-media%2Fcanais%2F1775688612576-u0628igjimf.png&amp;name=Cinturao+Verde</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="36">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Fclassique%2Fclassique%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FrHxcraT.png&amp;name=Classique+TV+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="37">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fdfr80qz435crc.cloudfront.net%2FEFGH%2FAmagi%2FNewCo%2FNew_Brasil_BR%2FNew_Brasil.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FGrjGwKM.png&amp;name=COM+Brasil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="38">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f357e91b18f0b00073583d2.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f357e91b18f0b00073583d2%2FcolorLogoPNG.png&amp;name=Comedy+Central+Pluto+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="39">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-609ae66b359b270007869ff1.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F609ae66b359b270007869ff1%2FcolorLogoPNG_1733160636316.png&amp;name=Comedy+Central+South+Park</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="40">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fadylnet.streampool.net%2F10324%2Flive%2Fhls%2FConecta%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FqHwTWlz.png&amp;name=Conecta+Mais+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="41">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstream01.msolutionbrasil.com.br%2Fhls%2Fconectv%2Flive.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FXN6jjMR.png&amp;name=ConecTV+Brasil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="42">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-63eb9c5351f5d000085e8d7e.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F63eb9c5351f5d000085e8d7e%2FcolorLogoPNG.png&amp;name=CSI%3A+Miami</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="43">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ffpa-gateway.tvcultura.com.br%3A8181%2Fmemfs%2F606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8&amp;thUrl=https%3A%2F%2Feitv6.cdn.broadpeak.io%2Faccount351-i1438%2Fchannel%2F53%2Fquadrada_-3-_pequeno-1723832301.png&amp;name=Cultura+Fast+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="44">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fbr.conectmy.com.br%2FDespertarTV%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fres.cloudinary.com%2Fdpkehkbpv%2Fimage%2Fupload%2Fv1721839192%2Flogo%2Fmixtv%2Fdespertar_tv_ieb2l3.png&amp;name=Despertar+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="45">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-638df93ae2f2a3000737c168.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F638df93ae2f2a3000737c168%2FcolorLogoPNG.png&amp;name=Detetives+M%C3%A9dicos</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="46">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-61f1d27a189ed10007b7393e.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FjkmouY3.png&amp;name=Diff%E2%80%99rent+Strokes+Arnold</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="47">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FZOOMOO_KIDS%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc0%2FDumDum_logo.svg&amp;name=DumDum+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="48">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F181.78.197.59%3A8000%2Fplay%2Fa07z%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FESPN_wordmark.svg%2F960px-ESPN_wordmark.svg.png&amp;name=ESPN+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="49">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F181.78.197.59%3A8000%2Fplay%2Fa07n%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F78%2FESPN_4_logo.svg%2F960px-ESPN_4_logo.svg.png&amp;name=ESPN+4+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="50">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-8719%2FLVW8719_AcLVAxWy5J%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F8PxpamC.png&amp;name=EUTV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="51">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f5141c1605ddf000748eb1b.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FVIpQJxL.png&amp;name=FailArmy</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="52">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5c483b9d1019c.streamlock.net%2Ffalalitoraltv%2Ffalalitoraltv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FNF6PL8O.png&amp;name=Fala+Litoral+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="53">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fe3be9ac5.wurl.com%2Fmaster%2Ff36d25e7e52f1ba8d7e56eb859c636563214f541%2FTEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FFIFA%252B_%282025%29.svg%2F960px-FIFA%252B_%282025%29.svg.png&amp;name=FIFA%2B+Portuguese+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="54">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f171d3442a0500007362f22.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f171d3442a0500007362f22%2FcolorLogoPNG.png&amp;name=Filmes+Suspense</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="55">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FFISH_TV%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fwww.fishtv.com%2Fpublic%2Fsite%2Fimages%2Flogos%2Ffishtv.svg&amp;name=Fish+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="56">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F59fb88a1b1108.streamlock.net%2Ffonte%2F_definst_%2Ffontetv%2Fchunklist_w1224511652.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F7q2BmNc.png&amp;name=Fonte+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="57">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv2.srvif.com%2Fforatedio%2Fforatedio%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FR9ul4T1.png&amp;name=Fora+Tedio+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="58">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FFUTURA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F8e%2FCanal_Futura.png%2F960px-Canal_Futura.png&amp;name=Futura+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="59">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Famg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.ibb.co%2FWGXHDnF%2Flogo-ge-fast.png&amp;name=ge+Fast+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="60">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Fgospelcartoon%2Fgospelcartoon%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FyxjPno5.png&amp;name=Gospel+Cartoon+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="61">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Fgospelf%2Fgospelf%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FcQN3nWt.png&amp;name=Gospel+Movie+TV+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="62">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.177.114.114%2FHISTORY%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F01%2FHistory_%25282021%2529.svg%2F500px-History_%25282021%2529.svg.png&amp;name=History+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="63">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.177.114.114%2FHISTORY_2%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FHistory2_logo_%25282022%2529.svg%2F500px-History2_logo_%25282022%2529.svg.png&amp;name=History+2+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="64">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvstm.com%2Fsistema7933%2Fsistema7933%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FRUKVrOH.png&amp;name=ISTV+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="65">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo01.brascast.com%2Fd92ebb4f%2Fd92ebb4f%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FlezIQyL.png&amp;name=J3NEWS+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="66">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-69162ad79505d0f3b1ebf07d.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F69162ad79505d0f3b1ebf07d%2FcolorLogoPNG_1766066212478.png&amp;name=Jornada+nas+Estrelas+A+Nova+Gera%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="67">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-69162af591700f4c4c135c95.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F69162af591700f4c4c135c95%2FcolorLogoPNG_1766066526851.png&amp;name=Jornada+nas+Estrelas+Deep+Space+Nine</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="68">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-69162b1ef189e235142b17ab.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F69162b1ef189e235142b17ab%2FcolorLogoPNG_1766150123044.png&amp;name=Jornada+nas+Estrelas+Voyager</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="69">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.49.66%3A8083%2FJOVEMPANNEWSHD%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F26%2FJovem_Pan_logo_2018.svg%2F960px-Jovem_Pan_logo_2018.svg.png&amp;name=Jovem+Pan+News+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="70">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ffcc5130fd98c0007f2e216.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5ffcc5130fd98c0007f2e216%2FcolorLogoPNG.png&amp;name=Kenan+%26+Kel</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="71">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fgiatv.bozztv.com%2Fgiatv%2Fgiatv-kpoptvplay%2Fkpoptvplay%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FTf0vweF.png&amp;name=KpopTV+Play+%28576p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="72">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fw2.manasat.com%2Fkkids%2Fsmil%3Akkids.smil%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FSRX6EPY.png&amp;name=Kuriakos+Kids+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="73">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcnl-cl.otteravision.com%2Fcnl%2Fcl_h265%2Fcl_h265.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FchHsCzB.png&amp;name=L%21ke+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="74">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftv.laboralsst.com.br%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Ftv.laboralsst.com.br%2Flogo.png&amp;name=Laboral+TV+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="75">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fa.cdni.live%2Frodrigo2364%2Frodrigo2364%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fwww.lamorerockshowwebtv.com.br%2Fwp-content%2Fuploads%2F2024%2F11%2Flogo_rockshow.avif&amp;name=Lamore+Rock+Show+WebTV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="76">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.16.50%2FLIFETIME%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9c%2FLogo_Lifetime_2020.svg%2F960px-Logo_Lifetime_2020.svg.png&amp;name=Lifetime+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="77">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Floadingtv%2Floadingtv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FR0aflu1.png&amp;name=Loading+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="78">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-63eb9dc84e83e70008abea92.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F63eb9dc84e83e70008abea92%2FcolorLogoPNG.png&amp;name=MacGyver</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="79">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6077045b6031bd00078de127.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FlOuySbz.png&amp;name=MasterChef</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="80">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fplay.mbcbrasil.tv.br%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Feswqkrogupaisirwcsys.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fmbc-media%2Fcanais%2F1775702325773-d10vtu076za.png&amp;name=MBC+Brasil+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="81">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f6108d8cc331900075e98e4.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f6108d8cc331900075e98e4%2FcolorLogoPNG.png&amp;name=MTV+Are+you+the+One%3F</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="82">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6047fbdbbb776a0007e7f2ff.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6047fbdbbb776a0007e7f2ff%2FcolorLogoPNG.png&amp;name=MTV+Biggest+Pop+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="83">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-626c2a3502d84a0007cec817.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F626c2a3502d84a0007cec817%2FcolorLogoPNG.png&amp;name=MTV+Catfish+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="84">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-61a528267e1b8b0007357920.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F61a528267e1b8b0007357920%2FcolorLogoPNG.png&amp;name=MTV+Com+o+Ex</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="85">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6851bb3426beced4f2f67ee6.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6851bb3426beced4f2f67ee6%2FcolorLogoPNG_1750686926779.png&amp;name=MTV+Dating</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="86">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-620fdc7d8a36fc000710e3ba.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F620fdc7d8a36fc000710e3ba%2FcolorLogoPNG.png&amp;name=MTV+Jovens+e+M%C3%A3es+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="87">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1212fb81e85c00077ae9ef.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1212fb81e85c00077ae9ef%2FcolorLogoPNG_1759263027326.png&amp;name=MTV+Pluto+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="88">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6851bdfc9ac48fde5e07f5ae.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6851bdfc9ac48fde5e07f5ae%2FcolorLogoPNG_1780319925470.png&amp;name=MTV+Reality+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="89">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-66a01e07d2d50d0008100d6a.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F66a01e07d2d50d0008100d6a%2FcolorLogoPNG.png&amp;name=MTV+Rocks</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="90">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-645111f1d8436e00081bb2bd.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F645111f1d8436e00081bb2bd%2FcolorLogoPNG.png&amp;name=MTV+Rupaul%27s+Drag+Race</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="91">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-625463563b8ddc0007134aeb.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F625463563b8ddc0007134aeb%2FcolorLogoPNG.png&amp;name=MTV+Shore</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="92">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FMUSIC%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FCDPCF2X.png&amp;name=Music+Box+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="93">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fappletree-mytime-samsungbrazil.amagi.tv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FaiGQtzI.png&amp;name=MyTime+Movie+Network+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="94">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fogc-nsprt-tcl-roku-syndication.otteravision.com%2Fogc%2Fnsprt%2Fnsprt.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F7QnJojr.png&amp;name=N+Sports+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="95">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f6df5a173d7340007c559f7.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FM8X3Kvc.png&amp;name=Naruto</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="96">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-63eb9fdda995710008991c54.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F63eb9fdda995710008991c54%2FcolorLogoPNG.png&amp;name=NCIS</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="97">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6824ce95f09106f4b18f4114.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f121460b73ac6000719fbaf%2FcolorLogoPNG_1748348856602.png&amp;name=Nick+Jr.+Club+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="98">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv2.srvif.com%2Fgafeab%2Fgafeab%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FE84jnP8.png&amp;name=Nickelodeon+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="99">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6824ce10c5d53e1351ceb8d1.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f12151794c1800007a8ae63%2FcolorLogoPNG_1750157164414.png&amp;name=Nickelodeon+Cl%C3%A1ssico+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="100">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-620ff46e0a576e0007dc2f89.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F620ff46e0a576e0007dc2f89%2FcolorLogoPNG.png&amp;name=Nickelodeon+iCarly</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="101">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-60f5fabf0721880007cd50e3.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F60f5fabf0721880007cd50e3%2FcolorLogoPNG_1767888207915.png&amp;name=Nickelodeon+Teen+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="102">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-645951c0e94c38000802d2cb.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F645951c0e94c38000802d2cb%2FcolorLogoPNG_1767888119852.png&amp;name=Nickelodeon+Toons+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="103">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fbob.x1colegal.com%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fx1colegal.com%2Fnickonlinebobesponja.png&amp;name=NickOnline+Bob+Esponja+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="104">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fx1colegal.com%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fx1colegal.com%2Flogo.png&amp;name=NickOnline+HD+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="105">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv2.srvif.com%2Fnicktoons%2Fnicktoons%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F97%2FNicktoons_logo_%25282023%2529.svg%2F330px-Nicktoons_logo_%25282023%2529.svg.png&amp;name=like+Gecko%29+Chrome%2F149.0.0.0+Safari%2F537.36%22+group-title%3D%22Animation%3BKids%22%2CNickToons+Brasil+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="106">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2Fwz3.dnip.com.br%3A1935%2Fnovaeratv%2Fnovaeratv.sdp%2Flive.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIK3F9Uq.png&amp;name=Nova+Era+TV+%281080p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="107">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FNOVO_TEMPO%2Findex.m3u8&amp;name=Novo+Tempo+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="108">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.livespanel.com%2Fnossatv%2Fnossatv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fn79nkVC.png&amp;name=NTV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="109">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-67f960c5441853fe50e7afc1.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F67f960c5441853fe50e7afc1%2FcolorLogoPNG_1747430170532.png&amp;name=Numbers</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="110">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-61099df8cee03b00074b2ecf.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FsQn6vvh.png&amp;name=O+Encantador+de+C%C3%A3es</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="111">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f5c216df68f920007888315.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FqoVxc13.png&amp;name=O+Reino+Infantil</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="112">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-63221bafdc6e110007b50270.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F63221bafdc6e110007b50270%2FcolorLogoPNG.png&amp;name=Oggy+e+as+Baratas+Tontas</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="113">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-624b1c8d4321e200073ee421.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FXsvbAWR.png&amp;name=One+Piece</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="114">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo04.logicahost.com.br%2Fpetloverstv%2Fpetloverstv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fpetloverstv.com.br%2Fstorage%2F357%2Fconfig%2FyqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png&amp;name=Petlovers+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="115">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FPLAY_TV%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIkrj3lk.png&amp;name=Play+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="116">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-9591%2FLVW9591_PmXtgATnaS%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FlH4RT7b.png&amp;name=Plena+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="117">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstrv.painelvox.top%2Fplenitude%2Fplenitude%2Fplaylist.m3u8&amp;name=Plenitude+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="118">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6806d65e84f24b70109485fa.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6806d65e84f24b70109485fa%2FcolorLogoPNG_1746817107468.png&amp;name=Pluto+TV+Aliens</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="119">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6474aa984cfc2c0008883a92.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6474aa984cfc2c0008883a92%2FcolorLogoPNG.png&amp;name=Pluto+TV+Animais</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="120">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f12136385bccc00070142ed.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f12136385bccc00070142ed%2FcolorLogoPNG_1777595293242.png&amp;name=Pluto+TV+Anime</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="121">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-604b79c558393100078faeef.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F604b79c558393100078faeef%2FcolorLogoPNG.png&amp;name=Pluto+TV+Anime+A%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="122">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-663b9dc7cb3ea10008f1a0ce.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F663b9dc7cb3ea10008f1a0ce%2FcolorLogoPNG.png&amp;name=Pluto+TV+Bang+Bang</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="123">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-64b9370b409629000802d32b.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F64b9370b409629000802d32b%2FcolorLogoPNG.png&amp;name=Pluto+TV+Canal+UOL+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="124">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5fa1612a669ba0000702017b.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5fa1612a669ba0000702017b%2FcolorLogoPNG_1733440556804.png&amp;name=Pluto+TV+Cine+Cl%C3%A1ssicos</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="125">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f12101f0b12f00007844c7c.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f12101f0b12f00007844c7c%2FcolorLogoPNG_1732662798298.png&amp;name=Pluto+TV+Cine+Com%C3%A9dia</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="126">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-62545ed3dab4380007582f7c.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F62545ed3dab4380007582f7c%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cine+Com%C3%A9dia+Rom%C3%A2ntica</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="127">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6479ff764f5ba5000878dfe2.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6479ff764f5ba5000878dfe2%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cine+Crime</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="128">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1210d14ae1f80007bafb1d.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1210d14ae1f80007bafb1d%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cine+Drama</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="129">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f171f032cd22e0007f17f3d.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f171f032cd22e0007f17f3d%2FcolorLogoPNG_1732045254120.png&amp;name=Pluto+TV+Cine+Fam%C3%ADlia</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="130">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5fa991b1f09e020007e78626.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5fa991b1f09e020007e78626%2FcolorLogoPNG_1748874366972.png&amp;name=Pluto+TV+Cine+Inspira%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="131">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f171f988ab9780007fa95ea.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f171f988ab9780007fa95ea%2FcolorLogoPNG_1771344977802.png&amp;name=Pluto+TV+Cine+Romance</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="132">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f120e94a5714d00074576a1.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f120e94a5714d00074576a1%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cine+Sucessos</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="133">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f12111c9e6c2c00078ef3bb.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f12111c9e6c2c00078ef3bb%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cine+Terror</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="134">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1ef23020a5ac0007e5e8ea.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1ef23020a5ac0007e5e8ea%2FcolorLogoPNG.png&amp;name=Pluto+TV+Cozinha</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="135">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-655e5c4d2c46f3000877a54b.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F655e5c4d2c46f3000877a54b%2FcolorLogoPNG.png&amp;name=Pluto+TV+Desenhos+Cl%C3%A1ssicos</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="136">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f32d2db0af67400077f29c4.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f32d2db0af67400077f29c4%2FcolorLogoSVG_1780355759776.svg&amp;name=Pluto+TV+Esportes</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="137">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5fa15ad6367e170007cdd098.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5fa15ad6367e170007cdd098%2FcolorLogoPNG.png&amp;name=Pluto+TV+Fic%C3%A7%C3%A3o+Cient%C3%ADfica</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="138">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f120f41b7d403000783a6d6.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f120f41b7d403000783a6d6%2FcolorLogoPNG.png&amp;name=Pluto+TV+Filmes+A%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="139">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-66c79a4262e5510008ff68a5.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F66c79a4262e5510008ff68a5%2FcolorLogoPNG.png&amp;name=Pluto+TV+Filmes+Aventura</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="140">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6806d62369aec5b19cd628c0.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6806d62369aec5b19cd628c0%2FcolorLogoPNG_1746817781806.png&amp;name=Pluto+TV+Filmes+de+Luta</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="141">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f5a545d0dbf7f0007c09408.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f5a545d0dbf7f0007c09408%2FcolorLogoPNG_1732044719987.png&amp;name=Pluto+TV+Filmes+Nacionais</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="142">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1ef1a8cec6be00072a7ac9.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1ef1a8cec6be00072a7ac9%2FcolorLogoPNG_1754405659295.png&amp;name=Pluto+TV+Hist%C3%B3ria</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="143">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f32cf37c9ff2b00082adbc8.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FJlQq0YJ.png&amp;name=Pluto+TV+Investiga%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="144">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f12141b146d760007934ea7.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f12141b146d760007934ea7%2FcolorLogoPNG.png&amp;name=Pluto+TV+Junior</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="145">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-604b99d633a72b00078e05ad.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f85cf621d6d2200079f1de0%2FcolorLogoPNG.png&amp;name=Pluto+TV+Karaok%C3%AA+por+Stingray+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="146">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-633ee9ba83c08f00076b60a6.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F633ee9ba83c08f00076b60a6%2FcolorLogoPNG.png&amp;name=Pluto+TV+KFOOD</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="147">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1214a637c6fd00079c652f.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1214a637c6fd00079c652f%2FcolorLogoPNG.png&amp;name=Pluto+TV+Kids</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="148">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-66c8cae7fed35b0008580ec0.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F66c8cae7fed35b0008580ec0%2FcolorLogoPNG.png&amp;name=Pluto+TV+Kids+Club</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="149">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5fac52f142044f00078e2a51.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5fac52f142044f00078e2a51%2FcolorLogoPNG.png&amp;name=Pluto+TV+Mist%C3%A9rios</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="150">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-66a01dcb8561260008b0a41d.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F66a01dcb8561260008b0a41d%2FcolorLogoPNG.png&amp;name=Pluto+TV+MTV+Classic+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="151">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1213ba0ecebc00070e170f.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f1213ba0ecebc00070e170f%2FcolorLogoPNG.png&amp;name=Pluto+TV+Natureza</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="152">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-64ad7394798def00087b2bfe.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F64ad7394798def00087b2bfe%2FcolorLogoPNG.png&amp;name=Pluto+TV+Neg%C3%B3cio+Fechado</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="153">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-663b9de4f999220008230fa8.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F663b9de4f999220008230fa8%2FcolorLogoPNG.png&amp;name=Pluto+TV+Netmovies</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="154">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f512365abe1f50007d3ff56.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f512365abe1f50007d3ff56%2FcolorLogoPNG.png&amp;name=Pluto+TV+Novelas</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="155">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-604a8dedbca75b0007b1c753.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F604a8dedbca75b0007b1c753%2FcolorLogoPNG.png&amp;name=Pluto+TV+Paisagens+por+Stingray+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="156">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-678fdf9e3de7c8cf948e8824.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F678fdf9e3de7c8cf948e8824%2FcolorLogoPNG.png&amp;name=Pluto+TV+Policial</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="157">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6102e04e9ab1db0007a980a1.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6102e04e9ab1db0007a980a1%2FcolorLogoPNG.png&amp;name=Pluto+TV+Record+News+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="158">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f1212ad1728050007a523b8.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FwztO3GM.png&amp;name=Pluto+TV+Retr%C3%B4</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="159">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6474ab1da51cb80008bfb5f4.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6474ab1da51cb80008bfb5f4%2FcolorLogoPNG.png&amp;name=Pluto+TV+S%C3%A9ries+A%C3%A7%C3%A3o</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="160">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-655e5bc94261ca000810cb17.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F655e5bc94261ca000810cb17%2FcolorLogoPNG.png&amp;name=Pluto+TV+S%C3%A9ries+Com%C3%A9dia</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="161">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6474ab5cdc7a760008745008.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6474ab5cdc7a760008745008%2FcolorLogoPNG.png&amp;name=Pluto+TV+S%C3%A9ries+Criminais</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="162">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-65f060d84e01740008d7421f.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F65f060d84e01740008d7421f%2FcolorLogoPNG.png&amp;name=Pluto+TV+S%C3%A9ries+Drama</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="163">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-691627e4a29a6123e400b3e0.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F691627e4a29a6123e400b3e0%2FcolorLogoPNG_1764878235665.png&amp;name=Pluto+TV+S%C3%A9ries+Novelescas</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="164">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-63d2ba2f60bc8f0008981a0e.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F63d2ba2f60bc8f0008981a0e%2FcolorLogoPNG.png&amp;name=Pluto+TV+S%C3%A9ries+Sci-Fi</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="165">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-604b91e0692f770007d9f33f.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F604b91e0692f770007d9f33f%2FcolorLogoPNG.png&amp;name=Pluto+TV+Shows+por+Stingray+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="166">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f99ac4fded33000078f29ab.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5efbd39f8c4ce900075d7698%2FcolorLogoPNG.png&amp;name=Pluto+TV+Star+Trek</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="167">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-66aa67493a4ad2000806d91b.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F66aa67493a4ad2000806d91b%2FcolorLogoPNG.png&amp;name=Pluto+TV+Terror+Trash</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="168">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6014761dfb91870008ea6463.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6014761dfb91870008ea6463%2FcolorLogoPNG.png&amp;name=Pluto+TV+Turbo</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="169">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f32d432d612e50007e56133.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f32d432d612e50007e56133%2FcolorLogoPNG_1769016717502.png&amp;name=Pluto+TV+Viagens</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="170">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f32d4d9ec194100070c7449.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5f32d4d9ec194100070c7449%2FcolorLogoPNG_1732044921019.png&amp;name=Pluto+TV+Vida+Real</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="171">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F200.194.238.229%3A8383%2Flive%2Fprimer%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FPMptSP3.png&amp;name=Primer+TV+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="172">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-61bb72a7bf8c520007a8fd27.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F0PkyJ3U.png&amp;name=Pronto-socorro%3A+Hist%C3%B3rias+De+Emerg%C3%AAncia</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="173">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fw%2FLVW-15748%2FLVW15748_Yed7yzLuRC%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FZWFxlU1.png&amp;name=RBATV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="174">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FRECORD_NEWS%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FHZDRG0K.png&amp;name=Record+News+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="175">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F200.77.176.130%3A8000%2Fudp%2F224.0.0.4%3A49152&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FVcHy0fu.png&amp;name=RecordTV+Interior+SP</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="176">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fd03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com%2Fv1%2Fmaster%2Fba62fe743df0fe93366eba3a257d792884136c7f%2FLINEAR-1026-WORBBRPTFAST-WHALETVPLUS%2F1026%2Fhls%2Fmaster%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F5e7cb84a172a0f0007da69e4%2FcolorLogoPNG.png&amp;name=Red+Bull+TV+BR+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="177">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fredebrasil.nuvemplay.live%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FTXJKwzZ.png&amp;name=Rede+Brasil+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="178">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FCNT%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FjcasAmw.png&amp;name=Rede+CNT+Rio+de+Janeiro+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="179">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.205.87.198%3A8555%2Flive%2F1368%2F123456%2F150.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FjcasAmw.png&amp;name=Rede+CNT+Salvador+%28576i%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="180">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FREDE_FAMILIA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F7KVFCrQ.png&amp;name=Rede+Familia+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="181">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fmedia2.cdntvms.com.br%2Ftv_morena_dorados%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FO02TF2r.png&amp;name=Rede+Globo+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="182">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fw%2FLVW-8719%2FLVW8719_AcLVAxWy5J%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FmttSwgO.png&amp;name=Rede+Gospel+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="183">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fmaystreaming.cloudecast.com%2Fredemeio%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FKVdTi0M.png&amp;name=Rede+Meio+Norte+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="184">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F8hzcavccys.zoeweb.tv%2Fredeminas%2Fngrp%3Aredeminas_all%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FMtQWAHv.png&amp;name=Rede+Minas+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="185">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fisaocorp.cloudecast.com%2Fngt%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FZFN1R4B.png&amp;name=Rede+NGT+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="186">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FREDE_SECULO_21%2Findex.m3u8&amp;name=Rede+Seculo+21+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="187">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo01.logicahost.com.br%2Fwebsptv%2Fwebsptv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fkh3LGAP.png&amp;name=Rede+SPTV+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="188">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FREDE_TV%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FZJgD38F.png&amp;name=Rede+TV%21+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="189">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fwebtv%2FAVJ-15235%2Fplaylist%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.ibb.co%2FF0Tm2WP%2F2103f4c07b851d64b4c96955765a9a95.png&amp;name=Rede+TV%21+Mais</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="190">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FREDE_VIDA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FmP1qfp2.png&amp;name=Rede+Vida+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="191">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftv01.zas.media%3A1936%2Fredetvparana%2Fredetvparana%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FD8R0Af4.png&amp;name=RedeTV%21+Parana</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="192">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Facesso.ecast.site%3A3648%2Flive%2Fritlive.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FUnjs1wi.png&amp;name=RIT+TV+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="193">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-10801%2FLVW10801_Xvg4R0u57n%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIkZfa4j.png&amp;name=SBT+Interior+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="194">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F1XSOdtQ0SH2G8OEmEfGgjQ%2Fmaster.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F42%2FSBT_News_2025.svg&amp;name=SBT+News+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="195">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fparecisfmlive.brasilstream.com.br%2Fhls%2Fparecisfmlive%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FmHxQyB2.png&amp;name=SIC+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="196">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-6298bd10d88ef000073f16b7.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F6298bd10d88ef000073f16b7%2FcolorLogoPNG.png&amp;name=Smithsonian+Channel+Pluto+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="197">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.16.50%2FSONY_CHANNEL%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb9%2FSony_Channel_Logo.png%2F960px-Sony_Channel_Logo.png&amp;name=Sony+Channel+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="198">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FSONY_MOVIES%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9b%2FSony_Movies_Logo.svg%2F500px-Sony_Movies_Logo.svg.png&amp;name=Sony+Movies+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="199">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo10.logicahost.com.br%2Fsoutv%2Fsoutv%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.ibb.co%2F8cKmCNm%2Fezgif-com-gif-maker.png&amp;name=SOU+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="200">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-65df71008b24c80008f04281.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F65df71008b24c80008f04281%2FcolorLogoPNG.png&amp;name=South+Park%3A+Cole%C3%A7%C3%A3o+Cartman</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="201">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-65df704366eec8000898e32f.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F65df704366eec8000898e32f%2FcolorLogoPNG.png&amp;name=South+Park%3A+Cole%C3%A7%C3%A3o+Kenny</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="202">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-65df713dec9fda0008b7a81d.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F65df713dec9fda0008b7a81d%2FcolorLogoPNG.png&amp;name=South+Park%3A+Cole%C3%A7%C3%A3o+Kyle</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="203">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-65df70b0f7f0af0008c3b316.m3u8&amp;thUrl=https%3A%2F%2Fimages.pluto.tv%2Fchannels%2F65df70b0f7f0af0008c3b316%2FcolorLogoPNG.png&amp;name=South+Park%3A+Cole%C3%A7%C3%A3o+Stan</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="204">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F170.83.49.66%3A8083%2FSPORTV3HD%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FmWOR8pi.png&amp;name=SporTV+3+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="205">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F187.102.210.46%2Funiverso%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F74%2FStudioUniversal2016.png%2F960px-StudioUniversal2016.png&amp;name=Studio+Universal+Latin+America+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="206">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fwebtv%2FAVJ-12952%2Fplaylist%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FSeF2I7q.png&amp;name=STZ+TV+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="207">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5fd1419a3b4f4b000773ba85.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FFPy4zF4.png&amp;name=Tastemade+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="208">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Flive.tcm10.com.br%2Ftcm10hd%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FaMuMVvB.png&amp;name=TCM+10+HD+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="209">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Flbgo.bozztv.com%2Fssh101%2Fssh101%2Ftele6%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fp7tt72X.png&amp;name=TELE+6+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="210">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTERRAVIVA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FwnYsE3O.png&amp;name=Terra+Viva+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="211">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f515ebac01c0f00080e8439.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FyH7n2dF.png&amp;name=The+Pet+Collective+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="212">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fd1bl6tskrpq9ze.cloudfront.net%2Fhls%2Fmaster.m3u8%3Fads.xumo_channelId%3D99992529&amp;thUrl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2Ff%2Ff4%2FTikTok_Radio.svg&amp;name=TikTok+Radio+Brasil+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="213">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fssai2-ads.api.leiniao.com%2Fglobal-adinsertion-api%2Fhls%2Flive%2Fv2%2F21fdb6dd7491406bba86497a24390a25%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbc%2FTimes_Brasil_CNBC_logo_2025.svg%2F960px-Times_Brasil_CNBC_logo_2025.svg.png&amp;name=Times+Brasil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="214">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTNT_NOVELAS%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F67%2FTNT_Novelas_2025.svg%2F1920px-TNT_Novelas_2025.svg.png&amp;name=TNT+Novelas+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="215">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5ff609de50ab210008025c1b.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FtWpjXtl.png&amp;name=Tokusato</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="216">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn-uw2-prod.tsv2.amagi.tv%2Flinear%2Famg01131-tracetv-tracebrazuca-samsungbr%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FDFBocPu.png&amp;name=Trace+Brasil+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="217">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F168.197.104.22%2FTRAVEL_BOX_BRASIL%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F3tBJERH.png&amp;name=Travel+Box+Brazil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="218">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fjmp2.uk%2Fplu-5f997e44949bc70007a6941e.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FnrvPPrW.png&amp;name=Turma+da+M%C3%B4nica+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="219">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.live.br1.jmvstream.com%2Fw%2FLVW-20715%2FLVW20715_50E3x2MCm2%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fj51rBro.png&amp;name=TV+A+Critica</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="220">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo01.logicahost.com.br%2Ftvafolha%2Ftvafolha%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FI7XGMhj.png&amp;name=TV+A+Folha+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="221">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.samcast.com.br%2Fgiovane7843%2Fgiovane7843%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Frsfnv4Z.png&amp;name=TV+Aldeia+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="222">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv5.samcast.com.br%2Fwagner7919%2Fwagner7919%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FwM9xXhc.png&amp;name=TV+Alternativa+%28410p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="223">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_APARECIDA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fkxrja0X.png&amp;name=TV+Aparecida+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="224">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvstm.com%2Fpiaui8071%2Fpiaui8071%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FeMguSjM.png&amp;name=TV+Assembleia+Piaui</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="225">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2Fhls1.sua.tv%2Flive%2Fglobotvbahiafhdbr2%2Fs.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FsJOrvHg.png&amp;name=like+Gecko%29+Chrome%2F129.0.0.0+Safari%2F537.36%22+group-title%3D%22Undefined%22%2CTV+Bahia+%281080i%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="226">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_BRASIL%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F91%2FTvBrasil2023.png%2F960px-TvBrasil2023.png&amp;name=TV+Brasil+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="227">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fporbrics.mediacdn.ru%2Fcdn%2Fbrics%2Fportuguese%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FvLpm8tN.png&amp;name=TV+BRICS+Portuguese+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="228">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5ad482a77183d.streamlock.net%2Frodrigotvbrusque.com.br%2F5d880199c902eb4a1e8df00d%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FJ2EAZPS.png&amp;name=TV+Brusque+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="229">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstream3.camara.gov.br%2Ftv1%2Fmanifest.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FSdou1Ab.png&amp;name=TV+C%C3%A2mara+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="230">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FCANCAO_NOVA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FOaM9hkH.png&amp;name=TV+Cancao+Nova+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="231">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftelevisaocidadeverde.brasilstream.com.br%2Fhls%2Ftelevisaocidadeverde%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fe67h04h.png&amp;name=TV+Cidade+Verde+Cuiaba</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="232">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5c483b9d1019c.streamlock.net%2F8186%2F8186%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FCpXjcyE.png&amp;name=TV+Clube+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="233">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_CULTURA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.ibb.co%2Fnm0jXMM%2Fcultura-3x.png&amp;name=TV+Cultura+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="234">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Ftvcurucasp%2Ftvcurucasp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FJdCKNZ4.png&amp;name=TV+Curu%C3%A7a+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="235">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftvdsoultv.acessaradios.com.br%2Ftvdsoultv%2Ftvdsoultv.stream%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fstorage.googleapis.com%2Fsoultv-prod-media%2Fmedia%2Fbrand%2FLOGO_TV_DIFUS%25C3%2583O_100x100px_doiivZN.png&amp;name=TV+Difusao+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="236">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FEVANGELIZAR%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIrYR7Kp.png&amp;name=TV+Evangelizar+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="237">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftvfronteira.brasilstream.com.br%2Fhls%2Ftvfronteira%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FNtcoW6G.png&amp;name=TV+Fronteira+%28480i%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="238">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftv02.zas.media%3A1936%2Ftvfuturo%2Ftvfuturo%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FxonrNBf.png&amp;name=TV+Futuro+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="239">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FGAZETA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F0sksWse.png&amp;name=TV+Gazeta+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="240">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2Ftvgrandenatalhd.duckdns.org%3A8080%2Fhls%2Flive.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FMTuErdw.png&amp;name=TV+Grande+Natal+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="241">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_JUSTICA%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FrOQKiMO.png&amp;name=TV+Justica+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="242">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstreaming.cloudecast.com%2Fhls%2Ftvlifeamerica%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FHZI0ilU.png&amp;name=TV+Life+America+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="243">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5ad482a77183d.streamlock.net%2Ftvnordesteegmail.com%2Ftvnordesteegmail.com%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F3e%2FTV_LITORAL_RN.jpg&amp;name=TV+Litoral+RN+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="244">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5cf4a2c2512a2.streamlock.net%2Ftvmaismarica%2Ftvmaismarica%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FlgCRX7q.png&amp;name=TV+Mais+Maric%C3%A1+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="245">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fw1.manasat.com%2Ftvmana-brasil%2Fsmil%3Atvmana-brasil.smil%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FAFb712e.png&amp;name=TV+Man%C3%A1+Brasil+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="246">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Ftv02.zas.media%3A1936%2Ftvmarajoara%2Ftvmarajoara%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F9d9vBN7.png&amp;name=TV+Marajoara+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="247">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn-fundacao-2110.ciclano.io%3A1443%2Ffundacao-2110%2Ffundacao-2110%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FbJyjLpg.png&amp;name=TV+Metropole+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="248">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F185.228.163.146%3A8000%2Fplay%2Fa01y%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FwqQmQml.png&amp;name=TV+Natal+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="249">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo01.logicahost.com.br%2Ftvpadrecicero%2Ftvpadrecicero%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FY7b29VG.png&amp;name=TV+Padre+Cicero+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="250">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_PAI_ETERNO%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FiuoXchN.png&amp;name=TV+Pai+Eterno+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="251">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5a2b083e9f360.streamlock.net%2Ftvpantanal%2Ftvpantanal.sdp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2F0FOmktl.png&amp;name=TV+Pantanal+MS+%28360p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="252">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo09.logicahost.com.br%2Ftvparaense%2Ftvparaense%2Fplaylist.m3u&amp;thUrl=https%3A%2F%2Fduckduckgo.com%2Fi%2Fe408ea02.png&amp;name=TV+Paraense+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="253">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F200.189.113.201%2Fhls%2Ftve.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FI6pKoBd.png&amp;name=TV+Paran%C3%A1+Turismo+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="254">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5a57bda70564a.streamlock.net%2Ftvpasso%2Ftvpasso.sdp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FQFE6TiV.png&amp;name=TV+Passo+Fundo+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="255">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo02.logicahost.com.br%2Ftvpetropolis%2Ftvpetropolis%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fweb2.petropolis.rj.gov.br%2Fimc%2Ffilm-commission%2Fuploads%2Fprofissional%2Fperfil%2F785b645d9c574b4d88504a85dbd6ef37.png&amp;name=TV+Petropolis+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="256">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.177.114.115%2FTV_RA_TIM_BUM%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FJIQwz0w.png&amp;name=TV+Ra+Tim+Bum+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="257">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.voxtvhd.com.br%2F9030%2F9030%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Ff34CQIG.png&amp;name=TV+S%C3%A3o+Raimundo+%28268p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="258">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FTV_SENADO%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fduy6waL.png&amp;name=TV+Senado+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="259">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv1.srvif.com%2Ftvserie%2Ftvserie%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FFf5mj0o.png&amp;name=TV+Series+1+As+Panteras+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="260">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5cf4a2c2512a2.streamlock.net%2F8104%2F8104%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Ft5oUK3C.png&amp;name=TV+Sim+Cachoeiro+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="261">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Flive.cdn.upx.com%2F00046%2FmyStream.sdp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FqM6nMWm.png&amp;name=TV+Sul+Bahia+%28320p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="262">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstreamer1.streamhost.org%2Fsalive%2FGMI3anjoh%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FPExKWNv.png&amp;name=TV+Terceiro+Anjo+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="263">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fapp.tvufop.com.br%2Fhls%2Ftvufop.m3u8&amp;thUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fdaniloroxette%2Ftvufop%2Frefs%2Fheads%2Fmain%2Fimages%2Ftvufop_logo.png&amp;name=TV+UFOP+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="264">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F644398c.ha.azioncdn.net%2Fprimary%2Ftvuniversal_480p.sdp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FTIsk5zN.png&amp;name=TV+Universal+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="265">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2Fwz4.dnip.com.br%2Ffratevitv%2Ffratevitv.sdp%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FTZF55f9.png&amp;name=TV+Vi%C3%A7osa+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="266">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-10841%2FLVW10841_mT77z9o2cP%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FZ1uWe7g.png&amp;name=TV+Vila+Real+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="267">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-9730%2FLVW9730_LmUwslM8jt%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FjCGrjf5.png&amp;name=TV+Zoom+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="268">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstmv5.samcast.com.br%2Ftvmaispet6354%2Ftvmaispet6354%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fwww.tvmaispet.com.br%2Fimages%2Ftvpet-logo.png&amp;name=TV%2BPet</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="269">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2F5b7f3c45ab7c2.streamlock.net%2F8008%2Fsmil%3A8008.smil%2Fplaylist.m3u8%3FDVR%3D&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FuxefHY3.png&amp;name=TVCOM+DF+%28360p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="270">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fsrv5.zcast.com.br%2Ftvcommaceio%2Ftvcommaceio%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FIE7IZzi.png&amp;name=TVCOM+Macei%C3%B3+%28480p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="271">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2Fstreaming.procergs.com.br%3A1935%2Ftve%2Fstve%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0d%2FTVE_Bahia_logo.svg%2F960px-TVE_Bahia_logo.svg.png&amp;name=TVE+RS+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="272">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstreaming.procergs.com.br%3A8443%2Ftve%2Fstve%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FMQ6lJpS.png&amp;name=TVE+RS+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="273">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fvideo01.logicahost.com.br%2Ftvideonews%2Ftvideonews%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FvstHOYx.png&amp;name=TV%C3%ADdeoNews+%28720p%29+%5BNot+24%2F7%5D</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="274">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fstream01.msolutionbrasil.com.br%2Fhls%2Ftvitape%2Flive.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FXeqcwKe.png&amp;name=TVitap%C3%A9+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="275">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fwww.latinasat.com.br%2Fhls%2Flive%2Fstream%2Findex.m3u8&amp;thUrl=https%3A%2F%2Flatinasat.com.br%2Flogo.png&amp;name=TVLatinaSat+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="276">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fcdn.jmvstream.com%2Fw%2FLVW-8410%2FLVW8410_uiZOVm6vz1%2Fplaylist.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FzoHBxn1.png&amp;name=TVNBN+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="277">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fumatv.nuvemplay.live%2Fhls%2Fstream.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fm0RVb79.png&amp;name=UMA+TV</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="278">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fsitetv.brasilstream.com.br%2Fhls%2Fsitetv%2Findex.m3u8%3Ftoken%3D&amp;thUrl=https%3A%2F%2Fi.imgur.com%2FN0TvAFz.png&amp;name=UNISUL+TV+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="279">
+      <serviioLink>serviio://video:live?url=https%3A%2F%2Fgpa-vja.otteravision.com%2Fgpa%2Fvja%2Fvja.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fn0pxHo4.png&amp;name=VEJA%2B+TV+%281080p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+    <backupItem enabled="true" order="280">
+      <serviioLink>serviio://video:live?url=http%3A%2F%2F45.162.64.114%2FWOOHOO%2Findex.m3u8&amp;thUrl=https%3A%2F%2Fi.imgur.com%2Fme622pa.png&amp;name=WooHoo+%28720p%29</serviioLink>
+      <accessGroupIds>
+        <id>1</id>
+      </accessGroupIds>
+    </backupItem>
+  </items>
+</onlineRepositoriesBackup>
